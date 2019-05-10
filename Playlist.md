@@ -1,4 +1,4 @@
-Singer|Song name|Lenth
+Singer|Song name|Length
 :--:|:--:|:--:|
 [Ryan (feat.DEAN)](https://www.youtube.com/watch?v=YPdgFuQBHSc)|Hometown|4:16|
 [Cherry Coke](https://www.youtube.com/watch?v=kpV9YBGeMR0)|Blind|2:33|
